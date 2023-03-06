@@ -1,0 +1,15 @@
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Problems\LinkedListProblem\bin\Debug\net7.0\LinkedListProblem.exe
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Problems\LinkedListProblem\bin\Debug\net7.0\LinkedListProblem.deps.json
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Problems\LinkedListProblem\bin\Debug\net7.0\LinkedListProblem.runtimeconfig.json
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Problems\LinkedListProblem\bin\Debug\net7.0\LinkedListProblem.dll
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Problems\LinkedListProblem\bin\Debug\net7.0\LinkedListProblem.pdb
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Problems\LinkedListProblem\obj\Debug\net7.0\LinkedListProblem.csproj.AssemblyReference.cache
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Problems\LinkedListProblem\obj\Debug\net7.0\LinkedListProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Problems\LinkedListProblem\obj\Debug\net7.0\LinkedListProblem.AssemblyInfoInputs.cache
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Problems\LinkedListProblem\obj\Debug\net7.0\LinkedListProblem.AssemblyInfo.cs
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Problems\LinkedListProblem\obj\Debug\net7.0\LinkedListProblem.csproj.CoreCompileInputs.cache
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Problems\LinkedListProblem\obj\Debug\net7.0\LinkedListProblem.dll
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Problems\LinkedListProblem\obj\Debug\net7.0\refint\LinkedListProblem.dll
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Problems\LinkedListProblem\obj\Debug\net7.0\LinkedListProblem.pdb
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Problems\LinkedListProblem\obj\Debug\net7.0\LinkedListProblem.genruntimeconfig.cache
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Problems\LinkedListProblem\obj\Debug\net7.0\ref\LinkedListProblem.dll
